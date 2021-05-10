@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8003DF432649A27F004345A4 /* RecipeHighlights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8003DF422649A27F004345A4 /* RecipeHighlights.swift */; };
 		8060AD8826416FB600E5B185 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8060AD8726416FB600E5B185 /* RecipeDetailView.swift */; };
 		8061238626439EE20081F923 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8061238526439EE20081F923 /* RecipeFeaturedView.swift */; };
 		8097D750263FBFC800880899 /* Recipe_List_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8097D74F263FBFC800880899 /* Recipe_List_App.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8003DF422649A27F004345A4 /* RecipeHighlights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeHighlights.swift; sourceTree = "<group>"; };
 		8060AD8726416FB600E5B185 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 		8061238526439EE20081F923 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 		8097D74C263FBFC800880899 /* Recipe List App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Recipe List App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,6 +99,7 @@
 				8061238526439EE20081F923 /* RecipeFeaturedView.swift */,
 				8097D751263FBFC800880899 /* RecipeListView.swift */,
 				8060AD8726416FB600E5B185 /* RecipeDetailView.swift */,
+				8003DF422649A27F004345A4 /* RecipeHighlights.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			files = (
 				8097D768263FC51100880899 /* Recipe.swift in Sources */,
 				8060AD8826416FB600E5B185 /* RecipeDetailView.swift in Sources */,
+				8003DF432649A27F004345A4 /* RecipeHighlights.swift in Sources */,
 				8098E4BE2647ADEC0071B25D /* Rational.swift in Sources */,
 				8097D76C263FC71100880899 /* RecipeModel.swift in Sources */,
 				8097D752263FBFC800880899 /* RecipeListView.swift in Sources */,
